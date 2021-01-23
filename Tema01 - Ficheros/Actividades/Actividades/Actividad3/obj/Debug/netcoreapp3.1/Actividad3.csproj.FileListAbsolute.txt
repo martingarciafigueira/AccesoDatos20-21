@@ -1,0 +1,13 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\bin\Debug\netcoreapp3.1\Actividad3.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\bin\Debug\netcoreapp3.1\Actividad3.deps.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\bin\Debug\netcoreapp3.1\Actividad3.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\bin\Debug\netcoreapp3.1\Actividad3.runtimeconfig.dev.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\bin\Debug\netcoreapp3.1\Actividad3.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\bin\Debug\netcoreapp3.1\Actividad3.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\obj\Debug\netcoreapp3.1\Actividad3.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\obj\Debug\netcoreapp3.1\Actividad3.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\obj\Debug\netcoreapp3.1\Actividad3.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\obj\Debug\netcoreapp3.1\Actividad3.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\obj\Debug\netcoreapp3.1\Actividad3.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\obj\Debug\netcoreapp3.1\Actividad3.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Actividades\Actividades\Actividad3\obj\Debug\netcoreapp3.1\Actividad3.genruntimeconfig.cache
