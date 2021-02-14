@@ -1,0 +1,10 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\bin\Debug\EjemploRegexDNI.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\bin\Debug\EjemploRegexDNI.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\bin\Debug\EjemploRegexDNI.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\obj\Debug\EjemploRegexDNI.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\obj\Debug\EjemploRegexDNI.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\obj\Debug\EjemploRegexDNI.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\obj\Debug\EjemploRegexDNI.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\obj\Debug\EjemploRegexDNI.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\obj\Debug\EjemploRegexDNI.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejemplos\EjemploRegexDNI\EjemploRegexDNI\obj\Debug\EjemploRegexDNI.pdb
