@@ -1,0 +1,13 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\bin\Debug\EjemploConexionDapper.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\bin\Debug\EjemploConexionDapper.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\bin\Debug\EjemploConexionDapper.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\bin\Debug\Dapper.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\bin\Debug\Dapper.xml
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\obj\Debug\Actividades.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\obj\Debug\EjemploConexionDapper.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\obj\Debug\EjemploConexionDapper.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\obj\Debug\Actividades.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\obj\Debug\Actividades.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\obj\Debug\Actividades.csproj.CopyComplete
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\obj\Debug\EjemploConexionDapper.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\EjemploConexionDapper\obj\Debug\EjemploConexionDapper.pdb

@@ -1,0 +1,13 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\bin\Debug\Actividad9.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\bin\Debug\Actividad9.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\bin\Debug\Actividad9.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\bin\Debug\Dapper.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\bin\Debug\Dapper.xml
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\obj\Debug\Actividad9.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\obj\Debug\Actividad9.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\obj\Debug\Actividad9.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\obj\Debug\Actividad9.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\obj\Debug\Actividad9.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\obj\Debug\Actividad9.csproj.CopyComplete
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\obj\Debug\Actividad9.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Actividades\Actividad9\Actividad9\obj\Debug\Actividad9.pdb

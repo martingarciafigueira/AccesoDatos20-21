@@ -1,0 +1,13 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\obj\Debug\ActividadesConObjetos.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\obj\Debug\EjemploConexionDapper.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\obj\Debug\EjemploConexionDapper.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\obj\Debug\ActividadesConObjetos.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\obj\Debug\ActividadesConObjetos.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\obj\Debug\EjemploConexionDapper.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\obj\Debug\EjemploConexionDapper.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\bin\Debug\EjemploConexionDapper.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\bin\Debug\EjemploConexionDapper.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\bin\Debug\EjemploConexionDapper.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\bin\Debug\Dapper.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\bin\Debug\Dapper.xml
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema05 - ORM\Ejemplos\Ejemplo1\ActividadesConObjetos\obj\Debug\ActividadesConObjetos.csproj.CopyComplete
