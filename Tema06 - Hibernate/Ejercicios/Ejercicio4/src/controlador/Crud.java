@@ -20,7 +20,7 @@ public class Crud
     /**
      * @param args the command line arguments
      */
-    public static void main()
+    public static void main(String[] args)
     {
         //Se crea la conexión a la base de datos con Hibernate
         SessionFactory sesion = HibernateUtil.getSessionFactory();
@@ -36,14 +36,12 @@ public class Crud
         
         session.save(dep);
 
-        
         //Eliminar empleado
         Empleados emp = new Empleados();
         
         emp = (Empleados) session.load(Empleados.class, (short) 7369);
         
         session.delete(emp);
-        
         
         //Modificar empleado
         emp = (Empleados) session.load(Empleados.class, (short) 7499);

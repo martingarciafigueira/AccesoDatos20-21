@@ -19,7 +19,7 @@ public class CargaDeObjetos
     /**
      * @param args the command line arguments
      */
-    public static void main() throws InterruptedException
+    public static void main(String[] args) throws InterruptedException
     {
         //Se crea la conexión a la base de datos con Hibernate
         SessionFactory sesion = HibernateUtil.getSessionFactory();

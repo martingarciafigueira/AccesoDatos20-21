@@ -19,7 +19,7 @@ public class Main
     /**
      * @param args the command line arguments
      */
-    public static void main()
+    public static void main(String[] args)
     {
         //Se crea la conexión a la base de datos con Hibernate
         SessionFactory sesion = HibernateUtil.getSessionFactory();
@@ -29,9 +29,9 @@ public class Main
         //Se inserta la nueva fila en la tabla Departamentos
         Departamentos dep = new Departamentos();
 
-        dep.setDeptNo((byte) 60);
-        dep.setDnombre("MARKETING");
-        dep.setLoc("GUADALAJARA");
+        //dep.setDeptNo((byte) 61);
+        dep.setDnombre("MONTECASTELO");
+        dep.setLoc("VIGO");
 
         session.save(dep);
 

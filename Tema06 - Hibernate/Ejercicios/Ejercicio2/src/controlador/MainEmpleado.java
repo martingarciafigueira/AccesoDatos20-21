@@ -22,7 +22,7 @@ public class MainEmpleado
     /**
      * @param args the command line arguments
      */
-    public static void main()
+    public static void main(String[] args)
     {
         //Se crea la conexión a la base de datos con Hibernate
         SessionFactory sesion = HibernateUtil.getSessionFactory();

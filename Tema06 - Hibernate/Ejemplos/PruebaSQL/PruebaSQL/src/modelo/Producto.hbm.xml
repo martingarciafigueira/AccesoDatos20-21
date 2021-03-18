@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 18-mar-2021 19:21:20 by Hibernate Tools 3.6.0 -->
+<hibernate-mapping>
+    <class name="modelo.Producto" table="producto" schema="dbo" catalog="tienda">
+        <id name="codigo" type="int">
+            <column name="codigo" />
+            <generator class="assigned" />
+        </id>
+        <many-to-one name="fabricante" class="modelo.Fabricante" fetch="select">
+            <column name="codigo_fabricante" not-null="true" />
+        </many-to-one>
+        <property name="nombre" type="string">
+            <column name="nombre" length="100" not-null="true" />
+        </property>
+        <property name="precio" type="double">
+            <column name="precio" precision="53" scale="0" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>
