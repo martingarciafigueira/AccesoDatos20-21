@@ -1,0 +1,14 @@
+D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Soluciones\Tarea1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Soluciones\Tarea1\Ejercicio1\bin\Debug\Ejercicio1.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Soluciones\Tarea1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Soluciones\Tarea1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Soluciones\Tarea1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Soluciones\Tarea1\Ejercicio1\obj\Debug\Ejercicio1.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Soluciones\Tarea1\Ejercicio1\obj\Debug\Ejercicio1.pdb
