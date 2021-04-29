@@ -1,6 +1,0 @@
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio4\bin\Debug\Ejercicio4.exe.config
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio4\bin\Debug\Ejercicio4.exe
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio4\bin\Debug\Ejercicio4.pdb
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio4\obj\Debug\Ejercicio4.exe
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio4\obj\Debug\Ejercicio4.pdb

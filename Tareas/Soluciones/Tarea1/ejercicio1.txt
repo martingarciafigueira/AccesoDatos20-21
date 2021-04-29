@@ -1,2 +1,0 @@
-Crea un programa que cuente las palabras que hay en un archivo de texto.
-Crea un programa que cuente las palabras que hay en un archivo de texto.

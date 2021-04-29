@@ -1,7 +1,0 @@
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio3\bin\Debug\Ejercicio3.exe
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio3\bin\Debug\Ejercicio3.pdb
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio3\obj\Debug\Ejercicio3.exe
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio3\obj\Debug\Ejercicio3.pdb
-D:\Users\Javier\Desktop\DAM\Acceso a datos\Tarea1\Tarea1\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
